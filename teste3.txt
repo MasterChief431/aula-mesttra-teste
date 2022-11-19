@@ -1,4 +1,8 @@
 segundo arquivo
 ultima alteração...
+<<<<<<< HEAD
+=======
+terminado!!!
+>>>>>>> 44d518cbc4e7c73ca8d1d34545d743ee29609cc1
 
 
